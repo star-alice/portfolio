@@ -31,10 +31,10 @@ const projects: Array<IProjectCardData> = [
 	},
 	{
 		index: 3,
-		title: "Better Discord Tickets",
-		description: "This is a bot for a public ticket system, it's an open source alternative for anyone who would like to have their own ticket system on Discord.",
+		title: "Hineko Framework",
+		description: "Roblox Luau module loader made for better development experience with clean and organized code.",
 		link: "https://github.com/bitwise-star/better-discord-tickets",
-		technologies: ["Typescript", "SQLite", "TypeORM", "Discord.js", "DiscordX"]
+		technologies: ["Luau"]
 	},
 	{
 		index: 4,

@@ -3,7 +3,7 @@ import { TerminalLine } from "../terminal/terminal-line";
 
 const terminalContent = [
   { index: 1, text: "Star OS [Version 1.0]" },
-  { index: 2, text: "(c) Bitwise Star. All rights reserved." },
+  { index: 2, text: "(c) Alice Dev. All rights reserved." },
   { index: 3, text: "whoami", path: "$" },
   { index: 4, text: "I'm a Full Stack developer who loves to code a lot of stuff." },
   { index: 5, text: "→ I'm 19 years old" },

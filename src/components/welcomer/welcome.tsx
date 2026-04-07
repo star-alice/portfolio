@@ -14,7 +14,7 @@ export function Welcome() {
 			<h2 className="text-3xl sm:text-3xl md:text-4xl font-bold mb-4 w-fit">
 				<span className="text-white">Hello, I'm</span>{" "}
 				<span className="bg-gradient-to-r from-pink-500 via-purple-500 to-blue-500 bg-clip-text text-transparent">
-					Bitwise Star
+					Alice Dev
 				</span>{" "}
 				<span className="animate-wave inline-block">👋</span>
 			</h2>

@@ -8,7 +8,7 @@ import { animate } from "motion";
 const NavBar = () => {
 	const [scrolled, setScrolled] = useState(false);
 
-	const baseTitleText = "Bitwise Star";
+	const baseTitleText = "Alice Dev";
 	const titleCharCount = useMotionValue(0);
 	const rounded = useTransform(titleCharCount, (latest) => Math.round(latest));
   const displayText = useTransform(rounded, (latest) =>
