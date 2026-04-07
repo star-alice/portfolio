@@ -37,7 +37,7 @@ export function Welcome() {
 					icon={<FaLinkedin/>}
 				/>
 				<LinkButton
-					href="https://github.com/bitwise-star"
+					href="https://github.com/star-alice"
 					title="Github"
 					gradientLeft="#6d6d6d"
 					gradientRight="#2e2e2e"

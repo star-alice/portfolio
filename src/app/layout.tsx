@@ -19,16 +19,16 @@ export default function RootLayout({
         <meta property="og:title" content="Alice Dev"/>
         <meta property="og:description" content="Full Stack and Roblox Game Developer who loves to code a lot of stuff. Welcome to my portfolio!"/>
         <meta property="og:type" content="website"/>
-        <meta property="og:url" content="https://bitwisestar.com"/>
-        <meta property="og:image" content="https://raw.githubusercontent.com/bitwise-star/portfolio/refs/heads/main/assets/page.png"/>
+        <meta property="og:url" content="https://alicestar.com"/>
+        <meta property="og:image" content="https://raw.githubusercontent.com/star-alice/portfolio/refs/heads/main/assets/page.png"/>
         <meta property="og:image:alt" content="Alice Dev Portfolio"/>
         <meta property="og:image:type" content="image/png"/>
         <meta property="og:site_name" content="Alice Dev Portfolio"/>
         <meta name="twitter:card" content="summary_large_image"/>
-        <meta name="twitter:url" content="https://bitwisestar.com"/>
+        <meta name="twitter:url" content="https://alicestar.com"/>
         <meta name="twitter:title" content="Alice Dev Portfolio"/>
         <meta name="twitter:description" content="Full Stack and Roblox Game Developer who loves to code a lot of stuff. Welcome to my portfolio!"/>
-        <meta name="twitter:image" content="https://raw.githubusercontent.com/bitwise-star/portfolio/refs/heads/main/assets/page.png"/>
+        <meta name="twitter:image" content="https://raw.githubusercontent.com/star-alice/portfolio/refs/heads/main/assets/page.png"/>
       </head>
       <body className={"antialiased dark"}>
         <SpeedInsights/>

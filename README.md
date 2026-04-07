@@ -5,7 +5,7 @@ Hey there 👋! This is my personal portfolio built with **Next.js**, **Tailwind
 Take a look around and see what I’ve been working on. Below you’ll find instructions to get up and run this project.
 
 <p align="center">
-  <img src="https://github.com/bitwise-star/portfolio/blob/main/assets/page.png?raw=true" />
+  <img src="https://github.com/star-alice/portfolio/blob/main/assets/page.png?raw=true" />
 </p>
 
 

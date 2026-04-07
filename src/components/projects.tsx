@@ -33,14 +33,14 @@ const projects: Array<IProjectCardData> = [
 		index: 3,
 		title: "Hineko Framework",
 		description: "Roblox Luau module loader made for better development experience with clean and organized code.",
-		link: "https://github.com/bitwise-star/better-discord-tickets",
+		link: "https://github.com/star-alice/hineko-framework",
 		technologies: ["Luau"]
 	},
 	{
 		index: 4,
 		title: "My portfolio",
 		description: "That's the website you're on now, where I've gathered all my experience and skills in one place.",
-		link: "https://github.com/bitwise-star/portfolio",
+		link: "https://github.com/star-alice/portfolio",
 		technologies: ["Typescript", "Next.js", "React", "Tailwindcss"]
 	}
 ];
